@@ -31,7 +31,6 @@ A beautiful, responsive resume website built with pure HTML and CSS. No framewor
 ## Customization
 
 ### Personal Information
-- Replace "Alex Johnson" with your name throughout the HTML
 - Update the profile photo URL in the `.profile-photo img` src attribute
 - Modify contact information in the contact section
 - Update social media links with your profiles
